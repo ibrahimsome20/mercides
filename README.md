@@ -19,7 +19,8 @@ Here are some screenshots of the Mercedes website:
 ![Mercedes Website Screenshot 1](./Screenshot/one.png)
 ![Mercedes Website Screenshot 2](./Screenshot/two.png)
 
-> Make sure the screenshots exist in the `Screenshot` folder and filenames match exactly.
+##Demo Link
+https://ibrahimsome20.github.io/mercides/
 
 ## Technologies Used
 - HTML5
